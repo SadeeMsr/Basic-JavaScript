@@ -124,10 +124,10 @@ function megaFriend(friends)
     {
         if(longWordFriendLength==friends[j].length)
         {
-            var frinedName=friends[j];
+            var friendName=friends[j];
         }
     }
-    return frinedName;
+    return friendName;
 }
 
 
